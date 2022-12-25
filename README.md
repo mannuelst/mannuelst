@@ -37,12 +37,10 @@ I'm <strong>Front-end developer</strong> e <strong>Computer Science student</str
 <img align="center" alt="TypeScript"  src="https://img.icons8.com/color/48/undefined/typescript.png">
  <img align="center" alt="Reactjs"  src="https://img.icons8.com/color/48/undefined/react-native.png">
  <img align="center" alt="NodeJS"  src="https://img.icons8.com/color/48/undefined/nodejs.png">
- <img align="center" alt="Vuejs"   src="https://img.icons8.com/color/48/undefined/vue-js.png">
 </div>
 
 	 	  
   	
-
 
 ## Connect with me 🔗
 <div style="display: inline_block"><br>
