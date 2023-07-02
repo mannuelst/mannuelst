@@ -1,9 +1,3 @@
-
-<details  align="right" >
-	<summary><h1>thedzignverse 🪐</h1></summary>
-<em>"It's not the programming language that defines the programmer, but its logic..."</em>
-</details>
-
 <b align="left">
 🖖🏾👽 Hey, Welcome to my repository!</b>
 	
@@ -44,11 +38,16 @@ I'm <strong>Front-end developer</strong> e <strong>Computer Science student</str
 
 ## Connect with me 🔗
 <div style="display: inline_block"><br>
-<a href="https://www.linkedin.com/in/dzign47" target="_blank"><img src="https://img.icons8.com/fluency/48/undefined/linkedin.png" target="_blank"></a>
-<a href="https://instagram.com/dzign47" target="_blank"><img src="https://img.icons8.com/fluency/48/undefined/instagram-new.png" target="_blank"></a>
-<a href="https://www.twitter.com/dzign47" target="_blank"><img src="https://img.icons8.com/color/48/undefined/twitter-squared.png" target="_blank"></a>
-<a href="https://www.facebook.com/dzign47" target="_blank"><img src="https://img.icons8.com/fluency/48/undefined/facebook.png" target="_blank"></a>
-<a href="https://www.tiktok.com/@dzign47" target="_blank"><img src="https://img.icons8.com/color/48/undefined/tiktok--v1.png" target="_blank"></a>	
-<a href="#" target="_blank"><img src="https://img.icons8.com/fluency/48/undefined/discord-logo.png" target="_blank"></a> 
-<a href = "mailto:manuelds@outlook.pt"><img src="https://img.icons8.com/fluency/48/undefined/secured-letter.png" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mannuellds" target="_blank">
+	<img src="https://img.icons8.com/fluency/48/undefined/linkedin.png" target="_blank">
+</a>
+<a href="https://instagram.com/mannuelds" target="_blank">
+	<img src="https://img.icons8.com/fluency/48/undefined/instagram-new.png" target="_blank">
+</a>	
+<a href="#" target="_blank">
+	<img src="https://img.icons8.com/fluency/48/undefined/discord-logo.png" target="_blank">
+</a> 
+<a href = "mailto:manuelds@outlook.pt">
+	<img src="https://img.icons8.com/fluency/48/undefined/secured-letter.png" target="_blank">
+</a>
 </div>
