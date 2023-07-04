@@ -12,7 +12,7 @@ I'm <strong>Front-end developer</strong> e <strong>Computer Science student</str
 <div align="center">
   <a href="https://github.com/mannuelst">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=mannuelst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzign47&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuelst&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 	
 
