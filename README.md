@@ -11,7 +11,7 @@ I'm <strong>Front-end developer</strong> e <strong>Computer Science student</str
 ## Coding Activity 👨🏾‍💻
 <div align="center">
   <a href="https://github.com/dzign47">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=dzign47&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=mannuelst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzign47&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 	
@@ -41,7 +41,7 @@ I'm <strong>Front-end developer</strong> e <strong>Computer Science student</str
 <a href="https://www.linkedin.com/in/mannuellds" target="_blank">
 	<img src="https://img.icons8.com/fluency/48/undefined/linkedin.png" target="_blank">
 </a>
-<a href="https://instagram.com/mannuelds" target="_blank">
+<a href="https://instagram.com/mannuelst" target="_blank">
 	<img src="https://img.icons8.com/fluency/48/undefined/instagram-new.png" target="_blank">
 </a>	
 <a href="#" target="_blank">
