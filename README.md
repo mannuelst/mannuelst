@@ -32,22 +32,3 @@ I'm <strong>Front-end developer</strong> e <strong>Computer Science student</str
  <img align="center" alt="Reactjs"  src="https://img.icons8.com/color/48/undefined/react-native.png">
  <img align="center" alt="NodeJS"  src="https://img.icons8.com/color/48/undefined/nodejs.png">
 </div>
-
-	 	  
-  	
-
-## Connect with me 🔗
-<div style="display: inline_block"><br>
-<a href="https://www.linkedin.com/in/mannuellds" target="_blank">
-	<img src="https://img.icons8.com/fluency/48/undefined/linkedin.png" target="_blank">
-</a>
-<a href="https://instagram.com/mannuelst" target="_blank">
-	<img src="https://img.icons8.com/fluency/48/undefined/instagram-new.png" target="_blank">
-</a>	
-<a href="#" target="_blank">
-	<img src="https://img.icons8.com/fluency/48/undefined/discord-logo.png" target="_blank">
-</a> 
-<a href = "mailto:manuelds@outlook.pt">
-	<img src="https://img.icons8.com/fluency/48/undefined/secured-letter.png" target="_blank">
-</a>
-</div>
