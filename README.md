@@ -2,7 +2,7 @@
 🖖🏾👽 Hey, Welcome to my repository!</b>
 	
 My name's Manuel dos Santos,
-I'm <strong>WEB Dev</strong> e <strong>Computer Sc. student</strong>.
+I'm <strong>WEB Dev</strong> e <strong>Comp Sc. student</strong>.
 
 
 ##
