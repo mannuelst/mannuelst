@@ -2,7 +2,7 @@
 🖖🏾👽 Hey, Welcome to my repository!</b>
 	
 My name's Manuel dos Santos,
-I'm <strong>Front-end developer</strong> e <strong>Computer Science student</strong>.
+I'm <strong>WEB Dev</strong> e <strong>Computer Sc. student</strong>.
 
 
 ##
@@ -17,7 +17,7 @@ I'm <strong>Front-end developer</strong> e <strong>Computer Science student</str
 	
 
 	
-	
+<!---	
 ## Skill 🤹🏾
  <div style="display: inline_block"><br>
 <img align="center" alt="HTML5"  src="https://img.icons8.com/color/48/undefined/html-5--v1.png">
@@ -32,3 +32,4 @@ I'm <strong>Front-end developer</strong> e <strong>Computer Science student</str
  <img align="center" alt="Reactjs"  src="https://img.icons8.com/color/48/undefined/react-native.png">
  <img align="center" alt="NodeJS"  src="https://img.icons8.com/color/48/undefined/nodejs.png">
 </div>
+--->
