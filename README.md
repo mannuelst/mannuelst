@@ -1,35 +1,21 @@
-<b align="left">
-🖖🏾👽 Hey, Welcome to my repository!</b>
-	
-My name's Manuel dos Santos,
-I'm <strong>WEB Dev</strong> e <strong>Comp Sc. student</strong>.
+_Hi!_ 👋🏾  
+My name's **Manuel dos Santos**.  
+I' m a *Computer Science student and developer*.
 
 
+I'm focused on **web development** and **digital design**.  
+I transform ideas into digital products with a functional and enjoyable experience.💡      
+
+>💭:_"It's not the programming language that defines the programmer, but its logic..."_
+
+_**📌 WELCOME TO MY GITHUB! 🔥**_  
 ##
-
-
-## Coding Activity 👨🏾‍💻
-<div align="center">
+<details>
+  <summary> <b>GitHub stats 👨🏾‍💻</b>  </summary>
+ <div align="center">
   <a href="https://github.com/mannuelst">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=mannuelst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuelst&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-	
+</details>
 
-	
-<!---	
-## Skill 🤹🏾
- <div style="display: inline_block"><br>
-<img align="center" alt="HTML5"  src="https://img.icons8.com/color/48/undefined/html-5--v1.png">
-  <img align="center" alt="CSS3" src="https://img.icons8.com/color/48/undefined/css3.png">	  
-  <img align="center" alt="JavaScript"  src="https://img.icons8.com/fluency/48/undefined/javascript.png">
-  <img align="center" alt="c"  src="https://img.icons8.com/color/48/undefined/c-programming.png">
-<img align="center" alt="c++"  src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png">
-<img align="center" alt="Java" src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"> 
- <img align="center" alt="Python"  src="https://img.icons8.com/color/48/undefined/python--v1.png">
-<img align="center" alt="Bootsttrap" src="https://img.icons8.com/color/48/undefined/bootstrap.png">
-<img align="center" alt="TypeScript"  src="https://img.icons8.com/color/48/undefined/typescript.png">
- <img align="center" alt="Reactjs"  src="https://img.icons8.com/color/48/undefined/react-native.png">
- <img align="center" alt="NodeJS"  src="https://img.icons8.com/color/48/undefined/nodejs.png">
-</div>
---->
