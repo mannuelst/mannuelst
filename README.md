@@ -10,12 +10,11 @@ I transform ideas into digital products with a functional and enjoyable experien
 
 _**📌 WELCOME TO MY GITHUB! 🔥**_  
 ##
-<details>
-  <summary> <b>GitHub stats 👨🏾‍💻</b>  </summary>
+
  <div align="center">
   <a href="https://github.com/mannuelst">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=mannuelst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuelst&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-</details>
+
 
