@@ -1,8 +1,11 @@
+<div> 
 <img align="right" src="https://github.com/mannuelst/mannuelst/blob/3cf0339f9eee576f19a6dab2712b0031cb76025d/coding.svg" width="300"/>
+</div>
 
 
 #  Manuel dos Santos
-Computer Sc. student, Developer & IU Designer
+
+Computer Sc. student, Developer & UI Designer
 
 I' m focused on **web development** and **digital design**, transforming ideas into digital products with a functional and enjoyable experience.💡      
 
