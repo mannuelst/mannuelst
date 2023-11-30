@@ -1,9 +1,9 @@
+<img align="right" src="https://github.com/mannuelst/mannuelst/blob/3cf0339f9eee576f19a6dab2712b0031cb76025d/coding.svg" width="300"/>
+
+
 _Hi!_ 👋🏾  
 My name's **Manuel dos Santos**.  
-I' m a *Computer Science student and developer*.
-
-
-I'm focused on **web development** and **digital design**.  
+I' m a *Computer Science student and developer*, focused on **web development** and **digital design**.  
 I transform ideas into digital products with a functional and enjoyable experience.💡      
 
 >💭:_"It's not the programming language that defines the programmer, but its logic..."_
