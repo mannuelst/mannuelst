@@ -5,7 +5,7 @@
 
 #  Manuel dos Santos
 
-Computer Sc. student, Developer & UI Designer
+Developer & UI Designer | Computer Sc. student
 
 I' m focused on **web development** and **digital design**, transforming ideas into digital products with a functional and enjoyable experience.💡      
 
