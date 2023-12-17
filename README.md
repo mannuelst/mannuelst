@@ -1,5 +1,5 @@
 <div> 
-<img align="right" src="https://github.com/mannuelst/mannuelst/blob/3cf0339f9eee576f19a6dab2712b0031cb76025d/coding.svg" width="300"/>
+<img align="right" src="https://github.com/mannuelst/mannuelst/blob/main/cubos.gif" width="300"/>
 </div>
 
 
