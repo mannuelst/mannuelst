@@ -1,11 +1,13 @@
 <div> 
-<img align="right" src="https://github.com/mannuelst/mannuelst/blob/main/cubos.gif" width="300" height="300"/>
+<img align="right" src="https://github.com/mannuelst/mannuelst/blob/main/box.gif" width="300""/>
 </div>
 
 
 #  Manuel dos Santos
 
+`
 Developer & UI Designer | Computer Sc. student
+`
 
 I' m focused on **web development** and **digital design**, transforming ideas into digital products with a functional and enjoyable experience.💡      
 
