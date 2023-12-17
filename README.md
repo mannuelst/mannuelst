@@ -1,4 +1,4 @@
-<div> 
+<div width="auto"> 
 <img align="right" src="https://github.com/mannuelst/mannuelst/blob/main/box.gif" width="300""/>
 </div>
 
