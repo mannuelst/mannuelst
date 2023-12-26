@@ -34,21 +34,21 @@ html {
 }
 
 h1,
-h2,
-h3 {
+h2{
     color: var(--title);
     font-weight: bold;
-    display: block !;
 }
+
 h3{
     text-align: center;
     font-size: 3rem;
+    color: transparent;
+    -webkit-text-stroke:1px var(--text-color);
 }
 
 h3::after {
     content: " .";
     color: var(--main-color);
-    
 
 }
 
@@ -70,12 +70,13 @@ body {
     font-size: 1.8rem;
 }
 .gradient{
-    background:linear-gradient(45deg, #161A30, #31304D, #17161d/*, #B6BBC4*/);
-
+  /*  background:linear-gradient(45deg, #161A30, #31304D, #17161d, #B6BBC4);
+*/
+background:linear-gradient(-50deg, var(--bg),#31304D,var(--bg-sec), #161A30);
     height: 100vh;
     width: 100vw;
-    background-size: 300% 300%;
-    animation: bg_colors 15s ease infinite;
+    background-size: 900% 900%;
+    animation: bg_colors 7s ease-in-out infinite;
 }
  @keyframes bg_colors {
 0%{
@@ -110,6 +111,7 @@ section{
     justify-content: space-between;
     align-items: center;
     z-index: 100;
+    
 }
 
 .logo {
@@ -222,12 +224,13 @@ section{
     position: relative;
     justify-content: space-between;
     display: flex;
+    margin: auto;
     flex-wrap: wrap;
+    width: 50%;
 
 }
 .services .service-card{
-    position: relative;
-
+    position: relative; 
 }
 .services .service-card .face{
     width: 300px;
@@ -235,8 +238,9 @@ section{
     transition: .4s;
 }
 .services .service-card .face.face1{
+    border: 1px solid var(--main-color);
     position: relative;
-    background: #3333;
+    background: var(--bg-sec);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -245,14 +249,7 @@ section{
     transform: translateY(100px);
 }
 .services .service-card:hover .face.face1{
-    box-shadow: insert 0 0 60px whitesmoke,
-                inset 20px 0 80px #f0ff
-                inset -20px 0 80px #0ff,
-                inset 20px 0 300px #f0ff,
-                inset -20px 0 300px #0ff, 
-                0 0 50px #fff,
-                -10px 0 80px #f0f,
-                10px 0 80px #0ff;
+    transform: translateY(0);
 }
 .services .service-card .face.face1 .service-content{
     opacity: .2;
@@ -260,21 +257,21 @@ section{
     text-align: center;
 }
 .services .service-card:hover .face.face1 .service-content{
-opacity: 1;
+    opacity: 1;
 }
 .services .service-card .face.face1 .service-content i{
-   font-size: 3rem;
+   font-size: 4rem;
    color: var(--main-color);
    display: inline-block; 
 }
 .services .service-card .face.face1 .service-content h3{
-    font-size: 1rem;
+    font-size: 1.8rem;
     color: var(--text-color);
     text-align: center;
 }
 .services .service-card .face.face2{
     position: relative;
-    background: whitesmoke;
+    background: #31304D;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -286,8 +283,107 @@ opacity: 1;
 .services .service-card:hover .face.face2{
     transform: translateY(0);
 }
-.services .service-card .face.face2 .service-content p{
-    font-size: 10pt;
+.services .service-card .face.face2 .service-content p,li{
+    font-size: 1.6rem;
+    text-align: center;
+
     margin: 0;
     padding: 0;
+    color: var(--text-color);
 }
+.based_txt{
+    font-size: 1.3rem;
+}
+.something_txt{
+    font-weight: bolder;
+    font-size: 5rem;
+}
+
+.talk_btn{
+    position: relative;
+    background: var(--bg-sec);
+    width: 220px;
+    line-height: 40px;
+    padding: 8px 25px;
+    border-radius: 5px;
+    border: 1px solid var(--main-color);
+}
+.talk_btn label{
+    color: var(--text-color);
+    font-size: 1.8rem;
+    font-weight: 500;
+    display: block;
+    cursor: pointer;
+}
+.talk_to_me span{
+    float: right;
+    line-height: 35px;
+}
+
+.talk_btn ul{
+    position: absolute;
+    background: var(--bg-sec);
+    top: 60px;
+    left: 0;
+    width: 100%;
+    border-radius: 5px;
+    display: none;
+    border: 1px solid var(--main-color);
+   
+}
+.talk_btn:hover ul{
+    display: block;
+
+}
+/*
+
+[id=btn]:checked + ul{
+    display: block;
+
+}*/
+.talk_btn ul li{
+    color: var(--text-color) ;  
+    line-height: 40px;
+    padding: 8px 20px;
+    cursor: pointer;
+    border-bottom:  3px solid transparent;
+    text-align: left;
+ }
+ .talk_btn ul li{
+    font-size: 18px;
+ }
+.talk_btn ul li a{
+   color: var(--main-color) ; 
+   font-size: 18px; 
+   display: block;
+}
+input{
+    display: none;
+}
+button{
+    border: 1px solid var(--main-color);
+    border-radius: 8px;
+    padding: 8px;
+    background: var(--bg-sec);
+}
+button a{
+    color: var(--title);
+    font-size: 1.6rem;
+}
+button a:hover{
+    color: var(--title);
+}
+ footer{
+   border-top: 1px solid var(--text-color);
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+ }
+ footer div{
+    align-content: center; 
+ }
+ footer div a{
+    color: var(--main-color);
+ }
