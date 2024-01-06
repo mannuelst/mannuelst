@@ -4,27 +4,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/assets/style.css">
     <link rel="shortcut icon" href="./assets/img/logoBox_.svg" type="image/x-icon">
     <link href="https://cdn.jsdelivr.net/npm/remixicon@4.0.0/fonts/remixicon.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="/assets/style.css">
+    
+    <script src="./assets/script.js" defer></script>
     <title>Manuel | Portifolio</title>
 </head>
 
 <body class="gradient">
-    <!---HEADER!-->
     <header class="header">
         <a href="#" class="logo">Manuel <span>.</span></a>
-        <!--boxmenu-->
-
-        <nav class="navbar">
-            <!--
-
-                <a href="#home" class="active">Home</a>
-                <a href="#service">Services</a>
-                <a href="#projects">Projects</a>
-            -->
-           
-        </nav>
+        <div>
+            <i class="ri-linkedin-box-fill"></i>
+            <i class="ri-github-fill"></i>
+        </div>
     </header>
     <!--HOME SECTION-->
     <section class="home" id="home">
@@ -35,22 +30,7 @@
             <h2>
                 Transforming <span>ideas</span> into <span>digital products</span> with a functional and enjoyable experience<span>.</span>
             </h2>
-            <div class="talk_btn">
-                <label for="btn" class="talk_to_me">Talk to me!
-                    <span>i</span>
-                </label>
-                <input type="checkbox" name="" id="btn">
-                <ul class="contacts">
-                    <li><a href="mailto:manuelds@outlook.pt">manuelds@outlook.pt</a></li>
-                    <li> <a href="https://www.linkedin.com/in/mannuelst/" target="_blank">LinkedIn</a></li>
-                    <li> <a href="https://github.com/mannuelst" target="_blank">GitHub</a> </li>
-                
-                </ul>
-            </div>
-            
-           <!--
-            <p class="talk-about">Talk about <span>Development</span></p>
-           --> 
+      
         </div>
         <div class="home-img">
             <img src="./assets/box.gif" alt="" srcset="">
@@ -59,82 +39,83 @@
     <!--SECTION: PROJECTS-->
     <section class="projects" id="project">
         <h3>Projects</h3>
-        <div class="projects">
-            <div class="project-content">
-                <div class="proj-card">
-                    <div> </div>
-
+            <div class="wrapper">
+                <i  id= "left"class="ri-arrow-left-circle-line"></i>
+                <ul class="carousel">
+                  <li class="card">
+                    <h2>Título do Proj</h2>
+                    <p>Desrição + stack</p>
+                    <p>
+                        links:
+                    </p>
+                  </li>
+                  <li class="card">
+                    <h2>Título do Proj</h2>
+                    <p>Desrição + stack</p>
+                    <p>
+                        links:
+                    </p>
+                  </li>
+                  <li class="card">
+                    <h2>Título do Proj</h2>
+                    <p>Desrição + stack</p>
+                    <p>
+                        links:
+                    </p>
+                  </li>
+              
+                </ul>
+                <i id="right" class="ri-arrow-right-circle-line"></i>
+            </div>
+            <P>MEU REPO</P>
+            <div>
+                <h3>Services</h3>
+                <div class="services">
+                    <div class="service-card">
+                        <div class=" face face1">
+                            <div class="service-content">
+                                <i class="ri-code-s-slash-fill"></i>
+                                <h4>Development</h4>
+                            </div>
+                        </div>
+                        <div class="face face2">
+                            <div class="service-content">
+                            <p>
+                                I build modern, high-quality applications with an emphasis on performance, animation, responsiveness and SEO.
+                            </p>  
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="service-card">
+                        <div class=" face face1">
+                            <div class="service-content">
+                                <i class="ri-pen-nib-line"></i><br>
+                                <h4>Design</h4>
+                            </div>
+                        </div>
+                        <div class="face face2">
+                            <div class="service-content">
+                            <p>
+                                I value a simple content structure, clean design standards and well thought-out interactions.
+                            </p> 
+                            </div>
+                        </div>
+                    </div>
                 </div>
-
+                
             </div>
-        </div>
     </section>
-
-<section class="service" id="service"> 
-    <h3>Services</h3>
-<div class="services">
-    <div class="service-card">
-        <div class=" face face1">
-            <div class="service-content">
-                <i class="ri-code-s-slash-fill"></i>
-                <h4>Development</h4>
-            </div>
-        </div>
-        <div class="face face2">
-            <div class="service-content">
-            <p>
-                Desenvolvo aplicações modernas e de alta qualidade, com ênfase em preformance, animação, responsividade e SEO.
-            </p>  
-            </div>
-        </div>
-    </div>
-
-    <div class="service-card">
-        <div class=" face face1">
-            <div class="service-content">
-                <i class="ri-pen-nib-line"></i><br>
-                <h4>Design</h4>
-            </div>
-        </div>
-        <div class="face face2">
-            <div class="service-content">
-            <p>
-               Valorizo uma estrutura de conteúdo simples, padrões de design limpos e interações bem pensadas.
-            </p> 
-            </div>
-        </div>
-    </div>
-</div>
-<div>
-    <p class="based_txt">
-     Based in Luanda, Angola <br>
-    <p class="something_txt">Something in mind <span>?</span></p> 
-    <div class="talk_btn">
-        <label for="btn" class="talk_to_me">Talk to me!
-            <span>i</span>
-        </label>
-        <input type="checkbox" name="" id="btn">
-        <ul class="contacts">
-            <li><a href="mailto:manuelds@outlook.pt">manuelds@outlook.pt</a></li>
-            <li> <a href="https://www.linkedin.com/in/mannuelst/" target="_blank">LinkedIn</a></li>
-            <li> <a href="https://github.com/mannuelst" target="_blank">GitHub</a> </li>
-        
-        </ul>
-    </div>
- </div>
-</section>
 <footer>
     <div>
-        <p>
-            Copyright © 2023 Manuel dos Santos | All Rights Reserved. 
-        </p>
-      </div>  
-    <div>
-        <a href="https://github.com/mannuelst" target="_blank">GitHub</a> | 
-        <a href="https://www.linkedin.com/in/mannuelst/" target="_blank">LinkedIn</a>
-    </div>
+        <p class="something_txt">Something in mind <span>?</span></p> 
+     </div>
     
+    <div>
+        <a href="https://github.com/mannuelst" target="_blank">  <i class="ri-github-fill"></i></a> 
+        <a href="https://www.linkedin.com/in/mannuelst/" target="_blank"> <i class="ri-linkedin-box-fill"></i></a>
+    </div>
+   
 </footer>
 </body>
-
 </html>
