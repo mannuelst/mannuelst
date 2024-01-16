@@ -25,6 +25,6 @@ _**LET'S BUILD SOMETHING TOGETHER!?**_ 🫱🏽‍🫲🏾
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuelst&layout=compact&langs_count=8&theme=tokyonight"/>
    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuelst&layout=donut&theme=tokyonight"/> -->
 
-</div>
+<!-- </div>
 </details>
-  -->
+  --> 
