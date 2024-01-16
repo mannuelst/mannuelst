@@ -16,15 +16,9 @@ _**LET'S BUILD SOMETHING TOGETHER!?**_ 🫱🏽‍🫲🏾
 [![Linkedin Badge](https://img.shields.io/badge/-Manuel%20Dos_Santos-6c63ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
 [![Instagram](https://img.shields.io/badge/@mannuelst-6c63ff.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mannuelst)   
 
-<!-- 
-<details>
-<summary><b>My GitHub Stats👨🏾‍💻</b></summary>
-<div align="center"width="auto" >
+<div align="center" width="auto" >
   <a href="https://github.com/mannuelst">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=mannuelst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuelst&layout=compact&langs_count=8&theme=tokyonight"/>
-   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuelst&layout=donut&theme=tokyonight"/> -->
-
-<!-- </div>
-</details>
-  --> 
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=mannuelst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="auto"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuelst&layout=compact&langs_count=8&theme=tokyonight&count_private=true" width="auto"/>
+   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuelst&layout=donut&theme=tokyonight&count_private=true&langs_count=7"/> -->
+</div>
