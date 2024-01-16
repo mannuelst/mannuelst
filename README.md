@@ -19,7 +19,7 @@ _**LET'S BUILD SOMETHING TOGETHER!?**_ 🫱🏽‍🫲🏾
 
 <details>
 <summary><b>My GitHub Stats👨🏾‍💻</b></summary>
-<div align="center">
+<div align="center"width="auto" >
   <a href="https://github.com/mannuelst">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=mannuelst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuelst&layout=compact&langs_count=8&theme=tokyonight"/>
