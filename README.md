@@ -16,7 +16,7 @@ _**LET'S BUILD SOMETHING TOGETHER!?**_ 🫱🏽‍🫲🏾
 [![Linkedin Badge](https://img.shields.io/badge/-Manuel%20Dos_Santos-6c63ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
 [![Instagram](https://img.shields.io/badge/@mannuelst-6c63ff.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mannuelst)   
 
-
+<!-- 
 <details>
 <summary><b>My GitHub Stats👨🏾‍💻</b></summary>
 <div align="center"width="auto" >
@@ -27,4 +27,4 @@ _**LET'S BUILD SOMETHING TOGETHER!?**_ 🫱🏽‍🫲🏾
 
 </div>
 </details>
- 
+  -->
