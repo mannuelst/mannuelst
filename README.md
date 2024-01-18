@@ -1,5 +1,5 @@
 #  Manuel dos Santos
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=300&color=6C63FF&random=false&width=435&height=20&lines=I'm+Developer;I'm+UI+Designer;I'm+Comuputer+Sci.+Std.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=300&color=6C63FF&random=false&width=435&height=20&lines=I'm+Developer;I'm+UI+Designer)](https://git.io/typing-svg)
 
 <div width="auto"> 
 <img align="right" src="./assets/box.gif" width="350"/>
