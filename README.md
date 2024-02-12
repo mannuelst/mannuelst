@@ -7,7 +7,7 @@
 
 I transform ideas into **digital products** with a functional and enjoyable **experience**.   
 Combining design and code, I develop modern, high-quality **applications**, with an emphasis on performance, animation, responsiveness and **SEO.** 💡   
-**[See my portifolio ![](assets/svg/externo2.svg)](https://github.com/mannuelst/)**  
+**[See my portifolio ![](assets/svg/externo2.svg)](https://mannuelst.vercel.app/)**  
 
 _**LET'S BUILD SOMETHING TOGETHER!?**_ 🫱🏽‍🫲🏾   
 [![Outlook](https://img.shields.io/badge/manuelds@outlook.pt-6c63ff?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:manuelds@outlook.pt)
@@ -27,11 +27,3 @@ _**LET'S BUILD SOMETHING TOGETHER!?**_ 🫱🏽‍🫲🏾
  </div> -->
 
 <!-- &include_all_commits=true&count_private=true&title_color=6c63ff&icon_color=6c63ff&text_color=6c63ff&hide_border=true -->
-
-<div align= width="100em">
-<p align="center">
-
->💭 _"It's not the programming language that defines the programmer, but its logic..._
-</p>
-
-</div>
