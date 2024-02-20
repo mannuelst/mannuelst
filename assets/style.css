@@ -66,6 +66,11 @@ body {
 
     color: var(--text-color);
     font-size: 1.8rem;
+
+    margin: 0 auto;
+}
+
+.gradient {
     background: linear-gradient(-50deg, var(--bg), #31304D, var(--bg-sec), #161A30);
     height: 100vh;
     background-size: 900% 900%;
@@ -89,9 +94,9 @@ body {
 }
 
 section {
-    min-height: 100vh;
+    height: 100vh;
     padding: 10rem 9% 2rem;
-    width: auto 0;
+    width: 0 auto;
 }
 
 /*HEADER*/
@@ -103,7 +108,6 @@ section {
     padding: 2rem 9%;
     display: flex;
     justify-content: flex-end;
-
     z-index: 100;
 
 }
@@ -114,6 +118,7 @@ section {
     align-items: center;
     flex-direction: column;
     text-align: left;
+    gap: 100px;
 }
 
 .home-content {
@@ -129,12 +134,8 @@ section {
     margin-bottom: 2rem;
 }
 
-.social a {
-    margin-top: 36px;
-}
 
-
-.social a {
+i {
     color: var(--text-color);
     font-size: 2.4rem;
 }
@@ -154,7 +155,7 @@ section {
 }
 
 .wrapper {
-    width: 80%;
+    width: 100%;
     position: relative;
     align-items: center;
     justify-content: center;
