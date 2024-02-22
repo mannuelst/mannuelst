@@ -1,6 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=300&color=6C63FF&random=false&width=435&height=20&lines=I'm+Developer;I'm+UI+Designer)](https://git.io/typing-svg)
 
+ 
 TRANSFORMING **IDEAS** INTO **DIGITAL PRODUCTS** WITH A FUNCTIONAL AND ENJOYABLE **EXPERIENCE**.   
 Combining **design** and **code**, I develop modern, **high-quality** applications, **optimized** to provide exceptional **performance**, engaging animation, responsiveness, and effective **SEO**.    
 
