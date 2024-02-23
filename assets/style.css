@@ -26,7 +26,6 @@ svg:hover {
 
 html {
     font-size: 62.5%;
-    overflow-x: hidden;
 
 }
 
@@ -40,9 +39,6 @@ a:hover {
     color: var(--main-color);
 }
 
-img:hover {
-    color: var(--main-color);
-}
 
 h2 {
     text-align: center;
@@ -53,11 +49,9 @@ span {
 }
 
 body {
-
-    max-width: 800px;
     color: var(--text-color);
     font-size: 1.8em;
-
+    overflow: hidden;
     margin: 0 auto;
 }
 
@@ -91,18 +85,6 @@ section {
     width: 0 auto;
 }
 
-/*HEADER*/
-.header {
-    padding: 10em 9% 2em;
-    position: fixed;
-    /* top: 0;
-    left: 0; */
-    width: 0 auto;
-    display: flex;
-    justify-content: flex-start;
-    z-index: 100;
-
-}
 
 .home {
     display: flex;
@@ -121,6 +103,24 @@ section {
 
     font-weight: 700;
 
+
+}
+
+.transp {
+
+    text-align: center;
+    font-size: 3rem;
+    color: transparent;
+    -webkit-text-stroke: 1px var(--text-color);
+
+}
+
+.es:hover {
+    content: "....";
+    color: var(--main-color);
+}
+
+.teste {
     border-right: solid 2px var(--main-color);
     animation: piscando 500ms infinite normal,
         escrevendo 4s steps(100) 1s normal both;
