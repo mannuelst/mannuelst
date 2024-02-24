@@ -15,8 +15,25 @@
     text-decoration: none;
     outline: none;
     border: none;
-    scroll-behavior: smooth;
-    list-style: none;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+
+h1 {
+    color: var(--title);
+    font-weight: bold;
+}
+
+a {
+    color: var(--text-color);
+
+}
+
+a:hover {
+    color: var(--main-color);
 
 }
 
@@ -24,39 +41,33 @@ svg:hover {
     stroke: #6c63ff;
 }
 
-html {
-    font-size: 62.5%;
-
-}
-
-h1,
-h2 {
-    color: var(--title);
-    font-weight: bold;
-}
-
-a:hover {
-    color: var(--main-color);
-}
-
-
 span {
     color: var(--main-color);
 }
 
 body {
     color: var(--text-color);
-    font-size: 2rem;
+    font-size: 4rem;
     overflow: hidden;
     overflow-wrap: break-word;
     margin: 0 auto;
+    background: var(--bg);
 }
 
+
 .gradient {
-    background: linear-gradient(-50deg, var(--bg), #31304D, var(--bg-sec), #161A30);
+    background: linear-gradient(-50deg, var(--bg), var(--bg-sec), #161A30);
     height: 100vh;
     background-size: 900% 900%;
     animation: bg_colors 7s ease-in-out infinite;
+}
+
+.gradient p {
+    color: transparent;
+    font-weight: 700;
+    -webkit-text-stroke: 1px var(--main-color);
+
+
 }
 
 @keyframes bg_colors {
@@ -75,84 +86,72 @@ body {
     }
 }
 
-main {
+section {
     height: 100vh;
-    width: 100vw;
+    max-width: 960px;
 }
 
-.hero-section {
-    padding: 10em 9% 2em;
-    width: 0 auto;
+
+.container {
+    width: 90%;
+    height: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
     display: flex;
+    align-items: start;
     justify-content: center;
-    align-items: center;
     flex-direction: column;
 }
 
-.greeting {
-    text-align: start;
+.hero {
+    width: 90%;
+    height: 100vh;
+    margin: 0 auto;
 }
 
 .hi {
 
     text-align: center;
-    font-size: 2rem;
+    font-size: 2.5rem;
     color: transparent;
     -webkit-text-stroke: 1px var(--text-color);
 
 }
 
-.typing-effect {
-    border-right: solid 2px var(--main-color);
-    animation: piscando 500ms infinite normal,
-        escrevendo 8s steps(108) 1s normal both;
-    white-space: nowrap;
-    overflow: hidden;
-    display: inline-block;
+.no-stroke {
+    -webkit-text-stroke: 0;
 }
 
-@keyframes escrevendo {
-    from {
-        width: 0;
-    }
-
-    to {
-        width: 100%;
-    }
+.txt-gd {
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    /* background-image: linear-gradient(45deg, #ff00ff, #c11ceb, #6f19b5, #25007a); */
+    /* background-image: linear-gradient(45deg, #ff00ff, #f97281, #7b589e, #171f85); */
+    background-image: linear-gradient(45deg, #845EC2, #D65DB1, #FF6F91, #FF9671, #FFC75F, #F9F871);
+    background-size: 400% 400%;
+    animation: grad 7s ease infinite;
 }
 
-@keyframes piscando {
-    from {
-        border-right-color: var(--main-color);
+@keyframes grad {
+    0% {
+        background-position: 0 0;
     }
 
-    to {
-        border-right-color: transparent;
-    }
-}
-
-
-@media screen and (max-width: 900px) {
-
-
-    .home-content h2 {
-
-        font-weight: 700;
-
-        border-right: solid 2px var(--main-color);
-        animation: piscando 500ms infinite normal,
-            escrevendo 4s steps(100) 1s normal both;
-        white-space: nowrap;
-        overflow: hidden;
+    25% {
+        background-position: 100% 0;
     }
 
-    .typing-effect {
-        border-right: solid 2px var(--main-color);
-        animation: piscando 500ms infinite normal,
-            escrevendo 4s steps(100) 1s normal both;
-        white-space: nowrap;
-        overflow: hidden;
-        display: inline-block;
-        /* Adjust width to fit content */
+    50% {
+        background-position: 100% 100%;
     }
+
+    75% {
+        background-position: 0 100%;
+    }
+
+    100% {
+        background-position: 0 0;
+    }
+
 }
