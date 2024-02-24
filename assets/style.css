@@ -40,18 +40,15 @@ a:hover {
 }
 
 
-h2 {
-    text-align: center;
-}
-
 span {
     color: var(--main-color);
 }
 
 body {
     color: var(--text-color);
-    font-size: 1.8em;
+    font-size: 2rem;
     overflow: hidden;
+    overflow-wrap: break-word;
     margin: 0 auto;
 }
 
@@ -78,54 +75,40 @@ body {
     }
 }
 
-section {
-
+main {
     height: 100vh;
-    padding: 10em 9% 2em;
-    width: 0 auto;
+    width: 100vw;
 }
 
-
-.home {
+.hero-section {
+    padding: 10em 9% 2em;
+    width: 0 auto;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    /* text-align: left; */
-    gap: 100px;
 }
 
-.home-content {
+.greeting {
     text-align: start;
 }
 
-.home-content h2 {
-
-    font-weight: 700;
-
-
-}
-
-.transp {
+.hi {
 
     text-align: center;
-    font-size: 3rem;
+    font-size: 2rem;
     color: transparent;
     -webkit-text-stroke: 1px var(--text-color);
 
 }
 
-.es:hover {
-    content: "....";
-    color: var(--main-color);
-}
-
-.teste {
+.typing-effect {
     border-right: solid 2px var(--main-color);
     animation: piscando 500ms infinite normal,
-        escrevendo 4s steps(100) 1s normal both;
+        escrevendo 8s steps(108) 1s normal both;
     white-space: nowrap;
     overflow: hidden;
+    display: inline-block;
 }
 
 @keyframes escrevendo {
@@ -149,17 +132,8 @@ section {
 }
 
 
-
-i {
-    color: var(--text-color);
-    font-size: 2.4em;
-}
-
-
 @media screen and (max-width: 900px) {
-    .wrapper .carousel {
-        grid-auto-columns: calc((100% / 2) - 9px);
-    }
+
 
     .home-content h2 {
 
@@ -171,21 +145,14 @@ i {
         white-space: nowrap;
         overflow: hidden;
     }
-}
 
-@media screen and (max-width: 600px) {
-    .wrapper .carousel {
-        grid-auto-columns: 100%;
+    .typing-effect {
+        border-right: solid 2px var(--main-color);
+        animation: piscando 500ms infinite normal,
+            escrevendo 4s steps(100) 1s normal both;
+        white-space: nowrap;
+        overflow: hidden;
+        display: inline-block;
+        /* Adjust width to fit content */
     }
-}
-
-
-.btn {
-    background: var(--title);
-    color: var(--text-color);
-}
-
-.end-msg {
-    text-align: center;
-    margin-top: 36px;
 }
