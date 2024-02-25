@@ -8,13 +8,20 @@
 
 * {
 
-    font-family: 'Archivo', sans-serif;
+    font-family: 'Figtree', sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
     outline: none;
     border: none;
+}
+
+@font-face {
+    font-family: "Figtree";
+    src:
+        local("Figtree"),
+        url("./font/Figtree-Regular.ttf") format("opentype"),
 }
 
 html {
@@ -25,6 +32,8 @@ html {
 h1 {
     color: var(--title);
     font-weight: bold;
+    font-size: 3rem;
+    margin-bottom: 2rem;
 }
 
 a {
@@ -38,7 +47,7 @@ a:hover {
 }
 
 svg:hover {
-    stroke: #6c63ff;
+    fill: #6c63ff;
 }
 
 span {
@@ -47,16 +56,15 @@ span {
 
 body {
     color: var(--text-color);
-    font-size: 4rem;
+    font-size: 3rem;
     overflow: hidden;
     overflow-wrap: break-word;
     margin: 0 auto;
-    background: var(--bg);
 }
 
 
 .gradient {
-    background: linear-gradient(-50deg, var(--bg), var(--bg-sec), #161A30);
+    background: linear-gradient(-50deg, var(--bg), var(--bg-sec));
     height: 100vh;
     background-size: 900% 900%;
     animation: bg_colors 7s ease-in-out infinite;
@@ -89,6 +97,8 @@ body {
 section {
     height: 100vh;
     max-width: 960px;
+    width: 90%;
+    margin: 0 auto;
 }
 
 
@@ -101,20 +111,17 @@ section {
     align-items: start;
     justify-content: center;
     flex-direction: column;
-}
-
-.hero {
-    width: 90%;
-    height: 100vh;
-    margin: 0 auto;
+    gap: 4rem;
 }
 
 .hi {
-
+    font-weight: 300;
+    font-size: 1.6rem;
+    color: var(--text-color);
     text-align: center;
-    font-size: 2.5rem;
-    color: transparent;
-    -webkit-text-stroke: 1px var(--text-color);
+
+    /* color: transparent;
+    -webkit-text-stroke: 1px var(--text-color); */
 
 }
 
@@ -126,9 +133,7 @@ section {
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
-    /* background-image: linear-gradient(45deg, #ff00ff, #c11ceb, #6f19b5, #25007a); */
-    /* background-image: linear-gradient(45deg, #ff00ff, #f97281, #7b589e, #171f85); */
-    background-image: linear-gradient(45deg, #845EC2, #D65DB1, #FF6F91, #FF9671, #FFC75F, #F9F871);
+    background-image: linear-gradient(45deg, #845EC2, #6f19b5, #D65DB1, #FF6F91, #FF9671, #FFC75F);
     background-size: 400% 400%;
     animation: grad 7s ease infinite;
 }
@@ -154,4 +159,25 @@ section {
         background-position: 0 0;
     }
 
+}
+
+
+.let {
+    font-weight: 300;
+    font-size: 1.6rem;
+    color: var(--text-color);
+}
+
+.contact {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    position: fixed;
+    bottom: 2rem;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    z-index: 1000;
+    margin: 0 auto;
 }
