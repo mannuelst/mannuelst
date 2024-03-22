@@ -1,6 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Figtree&pause=300&color=6C63FF&random=false&width=435&lines=I'm+Developer;I'm+Designer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrainsMono&pause=300&color=6C63FF&random=false&width=435&lines=I'm+Developer;I'm+Designer)](https://git.io/typing-svg)
  
 TURNING **IDEAS** INTO **DIGITAL PRODUCTS** WITH A FUNCTIONAL AND ENJOYABLE **EXPERIENCE**!   
 Combining **design** and **code**, I develop optimized and efficient applications, with an emphasis on performance.  
