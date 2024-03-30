@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrainsMono&size=16&height=24&pause=300&color=6C63FF&random=false&width=435&lines=I'm+Developer;I'm+Designer)](https://git.io/typing-svg)   
 TURNING **IDEAS** INTO **DIGITAL EXPERIENCES**!   
-combining **design** and **code**, i build optimized and efficient applications, with an emphasis on performance.
+i build optimized and efficient applications, with an emphasis on performance.
 <!-- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=300&color=6C63FF&random=false&width=435&height=20&lines=I'm+Developer;I'm+Designer)](https://git.io/typing-svg)
 
