@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=15&height=24&pause=400&color=6C63FF&random=false&width=435&lines=turing+ideas+into+digital+experiences+✨)](https://git.io/typing-svg)   
+404: Oops! README not found
